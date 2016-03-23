@@ -11,9 +11,8 @@ Before you say: "Hey Rob, you dummy! You can already post to slack with a regula
 ##Visually the flow looks like this:
  ![alt tag](https://github.com/RobsRepo/SumoLogic-Script-Action-To-Slack/blob/master/overview.png)
  
- 
 # Prerequisites
-1.	You will need Python
+1.	You will need Python 2.7
 2.	You will need the Slack Python library. Install it using “pip install SlackClient”
 3.	A Sumo Logic installed collector.
 4.	A Sumo Logic query that you would like to schedule as an alert.
