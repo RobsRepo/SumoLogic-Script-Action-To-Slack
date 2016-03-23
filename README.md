@@ -26,5 +26,5 @@ Before you say: "Hey Rob, you dummy! You can already post to slack with a regula
 
 # Run:
 The script action run this script when the alert fires.
-However, if you would like to test it, run "python postScriptActionToSlack.py '\<filename\>'"
+However, if you would like to test it, run **"python postScriptActionToSlack.py '\<filename\>'"**
 
