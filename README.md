@@ -1,6 +1,6 @@
 # Posting Messages to Slack with Sumo Logic Script Actions
 
-Before you say: "Hey Rob, you dummy! You can already post to slack with a regular alert in Sumo Logic!" I know. The issue is that some of the clients that I've worked with were actually interested in having some of their data exposed to the Channel but without having the JSON brackets in place. At the time of writing this script, the option to strip these JSON handlebars out was not available with the Sumo Logic service.
+Before you say: "Hey Rob, you dummy! You can already post to slack with a regular alert in Sumo Logic!" I know. The issue is that some of the clients that I've worked with were actually interested in having some of their data exposed to Slack without having the JSON brackets in place. At the time of writing this script, there wasn't a turn key solution to strip these JSON handlebars using the Sumo Logic service.
 
 # Basic Idea
 
